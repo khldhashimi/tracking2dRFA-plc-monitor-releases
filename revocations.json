@@ -1,11 +1,9 @@
 {
   "payload": {
     "format": 1,
-    "sequence": 1791995285,
-    "issued": "2026-10-14T16:28:05+00:00",
-    "revoked": [
-      "T2D-2026-0001"
-    ]
+    "sequence": 1791995610,
+    "issued": "2026-10-14T16:33:30+00:00",
+    "revoked": []
   },
-  "signature": "NUqBZKYd9MMtufto8e5AzIksvvD+r0R9hbCFZXx55Zkp6BKSgwqHuqWE6V9ifNC961nzF/UlhEvoYxfN5MY5Cg=="
+  "signature": "E2K7o9Lf2L++ZFPQ86KCRNEvvKTXBSc500TsYoBE095GimxI+UrZfBkaeK/iUQOy09/akh7is3kgoEfWibJFAQ=="
 }
